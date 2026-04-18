@@ -3,7 +3,7 @@ exports.handler = async function(event) {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      "x-api-key": "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"
+      "x-api-key": "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"
     },
     body: event.body
   });
